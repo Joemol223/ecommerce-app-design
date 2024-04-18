@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Joemol_Joy_Project1</string>
+    <string name="sofa_armchair"><![CDATA[Sofa > Armchair]]></string>
+    <string name="strandmon">STRANDMON</string>
+    <string name="people_also_viewed">People also viewed</string>
+    <string name="armchair_djuparp_dark_green_blue">Armchair, Djuparp dark green-blue</string>
+    <string name="_229_00">$229.00</string>
+    <string name="remsta">REMSTA</string>
+    <string name="logo">logo</string>
+    <string name="rating">rating</string>
+    <string name="menu">Menu</string>
+    <string name="blue_armchair">Blue Armchair</string>
+    <string name="brown_armchair">Brown Armchair</string>
+    <string name="green_armchair">Green Armchair</string>
+    <string name="orange_armchair">Orange Armchair</string>
+    <string name="shipping_details">Shipping Details</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="name_on_card">Name on Card</string>
+    <string name="cvv">CVV</string>
+    <string name="submit">Submit</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="pin">Pincode</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="cont">Continue</string>
+</resources>
